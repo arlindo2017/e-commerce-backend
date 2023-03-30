@@ -50,4 +50,4 @@ Categories
 - GET/PUT/POST/DELETE API Routes
 
 ## Walkthrough Video
-[Walkthrough Video](https://youtu.be/HVIoNLajwqA)
+[Walkthrough Video](https://youtu.be/I8q1hf1bjiA)
