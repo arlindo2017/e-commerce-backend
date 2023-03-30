@@ -32,10 +32,13 @@ This will load all databases with some test data
 
 
 ## Screenshots
+
 Products
 ![Products](./Assets/products.jpg)
+
 Tags
 ![Tags](./Assets/tags.jpg)
+
 Categories
 ![Categories](./Assets/categories.jpg)
 
@@ -47,4 +50,4 @@ Categories
 - GET/PUT/POST/DELETE API Routes
 
 ## Walkthrough Video
-Add Video Link here
+[Walkthrough Video](https://youtu.be/HVIoNLajwqA)
